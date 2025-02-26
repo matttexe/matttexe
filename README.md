@@ -2,8 +2,33 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img height="200" src="https://64.media.tumblr.com/13d2c753eed929097cc13bbb1d3e482c/67441800327766fc-96/s1920x1080/fe67f6e7feaaf682aa84cd0280cbb4eed24e9dea.gif"  />
+  <img height="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/cca1e136569841.5720ffd3c7679.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h4 align="center">🌧️ - Connect with me!</h4>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mattttdev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/_matzinn" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://www.twitch.tv/matttzinn" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="47" height="35" alt="twitch logo"  />
+  </a>
+  <a href="https://www.instagram.com/_.matsb?igsh=MW8zcXhsYWtlbDcwaQ%3D%3D&utm_source" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
@@ -12,36 +37,17 @@
 
 ###
 
-<p align="left">Data Science - @FIAP | sp - 📍<br>Me chamo Matheus, mais conhecido como Matt! Estou iniciando minha carreira na área de tecnologia.</p>
+<br clear="both">
+
+<img align="right" height="300" src="https://cdna.artstation.com/p/assets/images/images/051/981/224/original/moises-dimas-resting-knight.gif?1658672844"  />
 
 ###
 
-<div align="left">
-  <img height="200" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif"  />
-</div>
+<h3 align="left">Data Science - @FIAP | sp - 📍<br>Me chamo Matheus, mais conhecido como Matt! Estou iniciando minha carreira na área de tecnologia.<br><br>- Tenho 18 anos, e sou apaixonado por esse mundo da tecnologia, desde pequeno, sempre me interresei e estou muito feliz com a minha carreira.<br><br>- Streamer & Content Creator</h3>
 
 ###
 
-<h2 align="left">🌧️ - Connect with me!</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/mattttdev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/_matzinn" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.twitch.tv/matttzinn" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
-  </a>
-  <a href="https://www.instagram.com/_.matsb?igsh=MW8zcXhsYWtlbDcwaQ%3D%3D&utm_source" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
+<br clear="both">
 
 <h2 align="left">☕ - Skills</h2>
 
