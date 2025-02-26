@@ -1,4 +1,8 @@
-<h1 align="center">Welcome to my profile 🍂</h1>
+<h1 align="center">Welcome to my profile 🍜</h1>
+
+###
+
+<h3 align="center">Data Science</h3>
 
 ###
 
@@ -10,24 +14,22 @@
 
 ###
 
-<br clear="both">
-
-<h4 align="center">🌧️ - Connect with me!</h4>
+<h3 align="center">🌧️ - Connect with me!</h3>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mattttdev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/_matzinn" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
   <a href="https://www.twitch.tv/matttzinn" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="47" height="35" alt="twitch logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
   <a href="https://www.instagram.com/_.matsb?igsh=MW8zcXhsYWtlbDcwaQ%3D%3D&utm_source" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
 
@@ -39,11 +41,11 @@
 
 <br clear="both">
 
-<img align="right" height="300" src="https://cdna.artstation.com/p/assets/images/images/051/981/224/original/moises-dimas-resting-knight.gif?1658672844"  />
+<h2 align="left">@FIAP | sp - 📍<br><br>Me chamo Matheus, mais conhecido como Matt! Estou iniciando minha carreira na área de tecnologia.<br><br>- Tenho 18 anos, e sou apaixonado por esse mundo da tecnologia, desde pequeno, sempre me interresei e estou muito feliz com a minha carreira.<br><br>- Streamer & Content Creator</h2>
 
 ###
 
-<h3 align="left">Data Science - @FIAP | sp - 📍<br>Me chamo Matheus, mais conhecido como Matt! Estou iniciando minha carreira na área de tecnologia.<br><br>- Tenho 18 anos, e sou apaixonado por esse mundo da tecnologia, desde pequeno, sempre me interresei e estou muito feliz com a minha carreira.<br><br>- Streamer & Content Creator</h3>
+<img align="right" height="300" src="https://cdna.artstation.com/p/assets/images/images/051/981/224/original/moises-dimas-resting-knight.gif?1658672844"  />
 
 ###
 
@@ -58,5 +60,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/matttexe/matttexe/output/snake.svg" alt="Snake animation" />
 
 ###
