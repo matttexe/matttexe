@@ -1,68 +1,52 @@
+<br clear="both">
+
 <h1 align="center">Welcome to my profile 🍜</h1>
 
 ###
 
-<h3 align="center">Data Science</h3>
-
-###
-
 <br clear="both">
 
-<div align="center">
-  <img height="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/cca1e136569841.5720ffd3c7679.gif"  />
-</div>
-
-###
-
-<h3 align="center">🌧️ - Connect with me!</h3>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/mattttdev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/_matzinn" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://www.twitch.tv/matttzinn" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <a href="https://www.instagram.com/_.matsb?igsh=MW8zcXhsYWtlbDcwaQ%3D%3D&utm_source" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<h2 align="left">🖥️ - About me</h2>
-
-###
-
-<br clear="both">
-
-<h2 align="left">@FIAP | sp - 📍<br><br>Me chamo Matheus, mais conhecido como Matt! Estou iniciando minha carreira na área de tecnologia.<br><br>- Tenho 18 anos, e sou apaixonado por esse mundo da tecnologia, desde pequeno, sempre me interresei e estou muito feliz com a minha carreira.<br><br>- Streamer & Content Creator</h2>
-
-###
-
-<img align="right" height="300" src="https://cdna.artstation.com/p/assets/images/images/051/981/224/original/moises-dimas-resting-knight.gif?1658672844"  />
-
-###
-
-<br clear="both">
-
-<h2 align="left">☕ - Skills</h2>
+<p align="left">@FIAP | sp - 📍<br><br>Me chamo Matheus, mais conhecido como Matt! Estou iniciando minha carreira na área de tecnologia, com foco em Data Science.<br><br>  • 💾 Tenho 18 anos, e sou apaixonado por esse mundo da tecnologia, desde pequeno, sempre me interresei e estou muito feliz com a minha carreira.<br><br>• 📹 Streamer & Content Creator<br><br>▸☕ More About Me</p>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <a href="https://www.linkedin.com/in/mattttdev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/matttexe/matttexe/output/snake.svg" alt="Snake animation" />
+<br clear="both">
+
+<img align="left" height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTExcTBlYmFoMzR5amlrZjk3OHZhdjR3dWdoOHZ5OTlrazAyZzVhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/68OprnDmGh2uQ3Ttmb/giphy.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=matttexe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="217" alt="stats graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h3 align="left">⚡- Skills</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="46" alt="python logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="46" alt="javascript logo"  />
+</div>
+
+###
+
+<img align="left" height="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/9afe0493484903.5e66500f8dea4.gif"  />
 
 ###
