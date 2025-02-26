@@ -4,9 +4,11 @@
 
 ###
 
-<br clear="both">
+<h3 align="center">Data Science</h3>
 
-<p align="left">@FIAP | sp - 📍<br><br>Me chamo Matheus, mais conhecido como Matt! Estou iniciando minha carreira na área de tecnologia, com foco em Data Science.<br><br>  • 💾 Tenho 18 anos, e sou apaixonado por esse mundo da tecnologia, desde pequeno, sempre me interresei e estou muito feliz com a minha carreira.<br><br>• 📹 Streamer & Content Creator<br><br>▸☕ More About Me</p>
+###
+
+<p align="left">@FIAP | sp - 📍<br><br>Me chamo Matheus, mais conhecido como Matt! Estou iniciando minha carreira na área de tecnologia.<br><br>  • 💾 Tenho 18 anos, e sou apaixonado por esse mundo da tecnologia, desde pequeno, sempre me interresei e estou muito feliz com a minha carreira.<br><br>• 📹 Streamer & Content Creator<br><br>▸☕ More About Me</p>
 
 ###
 
@@ -18,12 +20,6 @@
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitch logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img align="left" height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTExcTBlYmFoMzR5amlrZjk3OHZhdjR3dWdoOHZ5OTlrazAyZzVhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/68OprnDmGh2uQ3Ttmb/giphy.gif"  />
 
 ###
 
@@ -39,11 +35,9 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="46" alt="python logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="46" alt="javascript logo"  />
-</div>
+<br clear="both">
+
+<h6 align="left">▸ JavaScript<br>▸ Python</h6>
 
 ###
 
