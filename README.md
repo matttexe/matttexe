@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h1 align="center">Welcome to my profile 🍜</h1>
 
 ###
@@ -8,13 +6,9 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="left">📩 - About Me</h3>
 
 ###
-
-<br clear="both">
 
 <p align="left">Hi! 👋 My name is Matheus, but you can call me Matt! <br><br>I'm starting my career in the technology field. - @FIAP <br><br>• 📍São Paulo - Brazil<br><br>• 💾 I'm 18 years old and have been passionate about technology since I was a kid. I've always been interested in this world, and I'm very happy with my career path.<br><br>• 📹 Streamer & Content Creator<br><br>▸☕ More About Me</p>
 
@@ -37,35 +31,25 @@
 
 ###
 
-<br clear="both">
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=matttexe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="217" alt="stats graph"  />
 </div>
 
 ###
 
-<br clear="both">
-
 <h3 align="left">⚡- Skills</h3>
 
 ###
 
-<br clear="both">
-
 <h4 align="left">▸ JavaScript<br>▸ Python</h4>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img height="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/9afe0493484903.5e66500f8dea4.gif"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <h3 align="left">📬 - Contact</h3>
 
