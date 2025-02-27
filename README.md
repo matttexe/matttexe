@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Data Science 📊</h3>
+<h3 align="center">Machine Learning & Artificial Intelligence</h3>
 
 ###
 
