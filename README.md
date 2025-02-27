@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Hi! 👋 My name is Matheus Oliveira de Araújo, but you can call me Matt! <br><br>I'm starting my career in the technology field. <br><br>• 📍São Paulo - Brazil<br><br>• 💾 I'm 18 years old and have been passionate about technology since I was a kid. I've always been interested in this world, and I'm very happy with my career path.<br><br>• 📹 Streamer & Content Creator<br><br>▸☕ More About Me</p>
+<p align="left">Hi! 👋 My name is Matheus, but you can call me Matt! <br><br>I'm starting my career in the technology field. <br><br>• 📍São Paulo - Brazil<br><br>• 💾 I'm 18 years old and have been passionate about technology since I was a kid. I've always been interested in this world, and I'm very happy with my career path.<br><br>• 📹 Streamer & Content Creator<br><br>▸☕ More About Me</p>
 
 ###
 
