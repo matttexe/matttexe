@@ -4,11 +4,11 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="center">Data Science 📊</h3>
 
 ###
+
+<br clear="both">
 
 <h3 align="left">📩 - About Me</h3>
 
