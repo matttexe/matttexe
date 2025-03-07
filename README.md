@@ -41,7 +41,7 @@
 
 ###
 
-<h4 align="left">▸ JavaScript<br>▸ Python</h4>
+<h4 align="left">▸ Python</h4>
 
 ###
 
