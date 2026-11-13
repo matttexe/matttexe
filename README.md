@@ -26,7 +26,7 @@
     <td width="45%" align="center" valign="middle">
       <img src="./assets/persona.gif" width="100%" alt="gif" />
       <br>
-      <a href="https://open.spotify.com/track/4pjFNyjGaoKgLTnndISP6V"><img src="https://img.shields.io/badge/%E2%99%AA_On_repeat-Color_Your_Night_%C2%B7_Lotus_Juice-1DB954?style=flat-square&logo=spotify&logoColor=white&labelColor=191414" width="100%" alt="On repeat: Color Your Night · Lotus Juice &amp; Azumi Takahashi" /></a>
+      <a href="https://open.spotify.com/track/4pjFNyjGaoKgLTnndISP6V"><img src="https://img.shields.io/badge/%E2%99%AA_On_repeat-Color_Your_Night_%C2%B7_Lotus_Juice-0B3BD6?style=flat-square&logo=spotify&logoColor=white&labelColor=0A0F2C" width="100%" alt="On repeat: Color Your Night · Lotus Juice &amp; Azumi Takahashi" /></a>
     </td>
   </tr>
 </table>
