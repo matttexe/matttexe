@@ -14,7 +14,7 @@
 
 ### About me
 
-<img src="./assets/frieren.gif" align="right" width="360" alt="frieren gif" />
+<img src="./assets/persona.gif" align="right" width="360" alt="persona 3" />
 
 I'm a backend-focused full-stack developer at **MenthorX**. I build the bank integrations that let resellers and distributors issue and receive payments, and I take systems from the first requirements meeting all the way to production.
 
