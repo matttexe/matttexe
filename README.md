@@ -25,6 +25,8 @@
     </td>
     <td width="45%" align="center" valign="middle">
       <img src="./assets/persona.gif" width="100%" alt="gif" />
+      <br>
+      <a href="https://open.spotify.com/track/4pjFNyjGaoKgLTnndISP6V"><img src="https://img.shields.io/badge/%E2%99%AA_On_repeat-Color_Your_Night_%C2%B7_Lotus_Juice-1DB954?style=flat-square&logo=spotify&logoColor=white&labelColor=191414" width="100%" alt="On repeat: Color Your Night · Lotus Juice &amp; Azumi Takahashi" /></a>
     </td>
   </tr>
 </table>
@@ -82,20 +84,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />
-</p>
-
-<h3 align="center">Contributions</h3>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matttexe/matttexe/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matttexe/matttexe/output/github-snake.svg" />
-    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/matttexe/matttexe/output/github-snake-dark.svg" />
-  </picture>
-</p>
-
-<p align="center">
-  <a href="https://open.spotify.com/track/4pjFNyjGaoKgLTnndISP6V"><img src="https://img.shields.io/badge/On_repeat-Color_Your_Night_%C2%B7_Lotus_Juice_%26_Azumi_Takahashi-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=191414" alt="On repeat: Color Your Night · Lotus Juice &amp; Azumi Takahashi" /></a>
 </p>
 
 <h3 align="center">Get in touch</h3>
