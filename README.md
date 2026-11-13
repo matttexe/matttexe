@@ -13,7 +13,7 @@
 
 ### About me
 
-<img src="./assets/lofi-desk.svg" align="right" width="360" alt="Animated lo-fi desk scene on a rainy night" />
+<img src="./assets/frieren.gif" align="right" width="360" alt="frieren gif" />
 
 I'm a full-stack developer at **MenthorX**, where I implement Brazilian banks' payment APIs for resellers, so they can issue and receive payments without building those integrations themselves.
 
