@@ -95,4 +95,4 @@
   🇧🇷 Portuguese (native) · 🇺🇸 English (intermediate)
 </p>
 
-<img src="./assets/footer-wave.svg" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0B3BD6&height=120&section=footer" width="100%" alt="" />
