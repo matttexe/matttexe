@@ -14,15 +14,20 @@
 
 ### About me
 
-<img src="./assets/persona.gif" align="right" width="360" alt="persona 3" />
-
-I'm a backend-focused full-stack developer at **MenthorX**. I build the bank integrations that let resellers and distributors issue and receive payments, and I take systems from the first requirements meeting all the way to production.
-
-Outside of code, I like turning messy processes into clear documentation and automations that save people from repetitive work.
-
-🎓 Studying **Data Science at FIAP** (2025–2027)
-
-<br clear="right" />
+<table>
+  <tr>
+    <td width="55%" valign="middle">
+      I'm a backend-focused full-stack developer at <b>MenthorX</b>. I build the bank integrations that let resellers and distributors issue and receive payments, and I take systems from the first requirements meeting all the way to production.
+      <br><br>
+      Outside of code, I like turning messy processes into clear documentation and automations that save people from repetitive work.
+      <br><br>
+      🎓 Studying <b>Data Science at FIAP</b> (2025–2027)
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <img src="./assets/SEU_GIF.gif" width="100%" alt="gif" />
+    </td>
+  </tr>
+</table>
 
 ### What I've built
 
