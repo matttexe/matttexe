@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Matheus Araujo 👋</h1>
 
 <p align="center">
-  <img src="./assets/typing.svg" alt="Full-Stack Developer | Banking APIs: Pix · Boleto · Webhooks | Python · PostgreSQL · Flutter Web | Data Science student @ FIAP" />
+  <img src="./assets/header-typing.svg" alt="Full-Stack Developer | Banking APIs: Pix · Boleto · Webhooks | Python · PostgreSQL · Flutter Web | Data Science student @ FIAP" />
 </p>
 
 <p align="center">
