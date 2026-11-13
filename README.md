@@ -94,6 +94,10 @@
   </picture>
 </p>
 
+<p align="center">
+  <a href="https://open.spotify.com/track/1FctcqfLUnpEAj9xEukqnc"><img src="https://img.shields.io/badge/On_repeat-Everybody%27s_Got_to_Learn_Sometime_%C2%B7_The_Korgis-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=191414" alt="On repeat: Everybody's Got to Learn Sometime · The Korgis" /></a>
+</p>
+
 <h3 align="center">Get in touch</h3>
 
 <p align="center">
