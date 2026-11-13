@@ -1,66 +1,56 @@
-<h1 align="center">Welcome to my profile 🍜</h1>
+<h1 align="center">Hi, I'm Matheus Araujo 👋</h1>
 
-###
+<p align="center">
+  <b>Full-Stack Developer</b> · São Paulo, Brazil
+</p>
 
-<h3 align="center">Data Analyst.</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/matttexe/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:matttt.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-###
+---
 
-<h3 align="left">📩 - About Me</h3>
+### About me
 
-###
+<img src="./assets/lofi-desk.svg" align="right" width="360" alt="Animated lo-fi desk scene on a rainy night" />
 
-<p align="left">Hi! 👋 My name is Matheus, but you can call me Matt! <br><br>I'm starting my career in the technology field. <br><br>• 📍São Paulo - Brazil<br><br>• 💾 I'm 19 years old and have been passionate about technology since I was a kid. I've always been interested in this world, and I'm very happy with my career path.<br><br>• 📹 Streamer & Content Creator<br><br>▸☕ More About Me</p>
+I'm a full-stack developer at **MenthorX**, where I implement Brazilian banks' payment APIs for resellers, so they can issue and receive payments without building those integrations themselves.
 
-###
+- 🏦 **Banking APIs:** Pix and boleto (charges, QR codes, webhooks, mTLS certificates) with major Brazilian banks
+- 🧩 **Business systems:** end-to-end internal applications, from database design to the web front end
+- ⚙️ **Automation:** workflow automation with n8n to remove manual steps from back-office processes
+- 🎓 **Studying:** B.Sc. in Data Science at **FIAP** (2025–2027)
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/matttexe/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  </a>
-  <a href="https://www.twitch.tv/matttzinn" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitch logo"  />
-  </a>
-  <a href="https://www.youtube.com/@matttexe" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
-  </a>
-</div>
+<br clear="right" />
 
-###
+### Tech stack
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=matttexe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="217" alt="stats graph"  />
-</div>
+**Languages & frameworks**
 
-###
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Flutter_Web-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+</p>
 
-<h3 align="left">⚡- Skills</h3>
+**Data & infrastructure**
 
-###
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
 
-<h4 align="left">▸ Python</h4>
+### Currently
 
-###
+- Implementing bank payment APIs (Pix, boleto and webhooks) for resellers at MenthorX
+- Learning more about data engineering and machine learning at FIAP
 
-<div align="left">
-  <img height="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/9afe0493484903.5e66500f8dea4.gif"  />
-</div>
+### Get in touch
 
-###
-
-<h3 align="left">📬 - Contact</h3>
-
-###
-
-<p align="left">If you want to get in touch with me, feel free to send me a message</p>
-
-###
-
-<div align="center">
-  <a href="matttt.dev@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="80" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
+I'm open to talking about backend development, payment integrations and data projects. The best way to reach me is [LinkedIn](https://www.linkedin.com/in/matttexe/) or [email](mailto:matttt.dev@gmail.com).
