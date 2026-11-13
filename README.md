@@ -24,7 +24,7 @@
       🎓 Studying <b>Data Science at FIAP</b> (2025–2027)
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="./assets/SEU_GIF.gif" width="100%" alt="gif" />
+      <img src="./assets/persona.gif" width="100%" alt="gif" />
     </td>
   </tr>
 </table>
