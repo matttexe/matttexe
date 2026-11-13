@@ -12,9 +12,9 @@
 
 ---
 
-### About me
+<h3 align="center">About me</h3>
 
-<table>
+<table align="center">
   <tr>
     <td width="55%" valign="middle">
       I'm a backend-focused full-stack developer at <b>MenthorX</b>. I build the bank integrations that let resellers and distributors issue and receive payments, and I take systems from the first requirements meeting all the way to production.
@@ -29,9 +29,9 @@
   </tr>
 </table>
 
-### What I've built
+<h3 align="center">What I've built</h3>
 
-<table>
+<table align="center">
   <tr>
     <td width="50%" valign="top">
       <h4>🏦 Banking integrations</h4>
@@ -62,9 +62,9 @@
   </tr>
 </table>
 
-### Tech stack
+<h3 align="center">Tech stack</h3>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
@@ -75,7 +75,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 </p>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/PostgREST-008BB9?style=flat-square&logo=postgresql&logoColor=white" alt="PostgREST" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
@@ -84,8 +84,21 @@
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />
 </p>
 
-### Get in touch
+<h3 align="center">Contributions</h3>
 
-Open to conversations about backend, payment integrations and data. Reach me on [LinkedIn](https://www.linkedin.com/in/matttexe/) or by [email](mailto:matttt.dev@gmail.com).
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matttexe/matttexe/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matttexe/matttexe/output/github-snake.svg" />
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/matttexe/matttexe/output/github-snake-dark.svg" />
+  </picture>
+</p>
 
-🇧🇷 Portuguese (native) · 🇺🇸 English (intermediate)
+<h3 align="center">Get in touch</h3>
+
+<p align="center">
+  Open to conversations about backend, payment integrations and data.<br>
+  Reach me on <a href="https://www.linkedin.com/in/matttexe/">LinkedIn</a> or by <a href="mailto:matttt.dev@gmail.com">email</a>.
+  <br><br>
+  🇧🇷 Portuguese (native) · 🇺🇸 English (intermediate)
+</p>
