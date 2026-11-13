@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 110" width="800" height="110" role="img" aria-label="Animated blue waves">
+  <style>
+    .w { animation: slide linear infinite; }
+    .w1 { animation-duration: 14s; }
+    .w2 { animation-duration: 10s; animation-direction: reverse; }
+    .w3 { animation-duration: 7s; }
+    @keyframes slide { from { transform: translateX(0); } to { transform: translateX(-800px); } }
+    .b { opacity: 0; animation: rise 6s ease-in infinite; }
+    .b2 { animation-delay: 1.5s; } .b3 { animation-delay: 3s; } .b4 { animation-delay: 4.5s; }
+    @keyframes rise { 0% { opacity: 0; transform: translateY(0); } 20% { opacity: .8; } 100% { opacity: 0; transform: translateY(-60px); } }
+  </style>
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#38BDF8" stop-opacity=".55"/><stop offset="1" stop-color="#38BDF8" stop-opacity=".15"/></linearGradient>
+    <linearGradient id="g2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2563EB" stop-opacity=".75"/><stop offset="1" stop-color="#1D4ED8" stop-opacity=".5"/></linearGradient>
+    <linearGradient id="g3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0B3BD6"/><stop offset="1" stop-color="#0A1A6B"/></linearGradient>
+  </defs>
+  <!-- each path is two identical 800px periods so a -800px slide loops seamlessly -->
+  <path class="w w1" fill="url(#g1)" d="M0 46 C100 26 200 66 300 46 S500 26 600 46 S700 66 800 46 C900 26 1000 66 1100 46 S1300 26 1400 46 S1500 66 1600 46 V110 H0 Z"/>
+  <path class="w w2" fill="url(#g2)" d="M0 62 C133 80 266 80 400 62 S666 44 800 62 S1066 80 1200 62 S1466 44 1600 62 V110 H0 Z"/>
+  <path class="w w3" fill="url(#g3)" d="M0 80 C50 90 150 90 200 80 S350 70 400 80 S550 90 600 80 S750 70 800 80 S950 90 1000 80 S1150 70 1200 80 S1350 90 1400 80 S1550 70 1600 80 V110 H0 Z"/>
+  <g fill="none" stroke="#bfe8ff" stroke-width="1.5">
+    <circle class="b" cx="120" cy="96" r="3"/>
+    <circle class="b b2" cx="330" cy="100" r="2.5"/>
+    <circle class="b b3" cx="560" cy="98" r="3.5"/>
+    <circle class="b b4" cx="710" cy="100" r="2.5"/>
+  </g>
+</svg>
